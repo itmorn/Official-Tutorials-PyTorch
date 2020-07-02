@@ -28,6 +28,7 @@
 	z04_Googlenet.py
 	z05_resnet.py
 	z06_densenet.py
+	z07_mnasnet.py
 	test_net.py	#使用训练好的模型，做批量预测
 	
 	
